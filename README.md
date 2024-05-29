@@ -19,6 +19,7 @@
   />
 </p>
 
+<br>
 <h3 align="center">Página Home da aplicação</h3>
 <img src="public/readmeAssets/Home - Hero.png">
 
@@ -48,12 +49,15 @@ $ npm install
 $ npm run dev
 ```
 
+<br>
 <h3 align="center">Página Home da aplicação</h3>
 <img src="public/readmeAssets/Home - OurCoffes.png">
 
+<br>
 <h3 align="center">Página Checkout da aplicação</h3>
 <img src="public/readmeAssets/Checkout.png">
 
+<br>
 <h3 align="center">Página Success da aplicação</h3>
 <img src="public/readmeAssets/Success.png">
 
