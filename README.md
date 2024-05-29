@@ -1,3 +1,5 @@
+<h1 align="center">Coffee Delivery</h1>
+
 <p align="center">
   <img 
     src="https://img.shields.io/badge/React-%5E18.2.0-blue"
@@ -17,6 +19,7 @@
   />
 </p>
 
+<h3 align="center">Página Home da aplicação</h3>
 <img src="public/readmeAssets/Home - Hero.png">
 
 ## 💻 Projeto
@@ -45,8 +48,13 @@ $ npm install
 $ npm run dev
 ```
 
+<h3 align="center">Página Home da aplicação</h3>
 <img src="public/readmeAssets/Home - OurCoffes.png">
+
+<h3 align="center">Página Checkout da aplicação</h3>
 <img src="public/readmeAssets/Checkout.png">
+
+<h3 align="center">Página Success da aplicação</h3>
 <img src="public/readmeAssets/Success.png">
 
 ## 📝 License
