@@ -17,6 +17,8 @@
   />
 </p>
 
+<img src="public/readmeAssets/Home - Hero.png">
+
 ## 💻 Projeto
 
 O projeto foi desenvolvido para estudo e aborda o delivery de cafés. Quando o usuário adiciona um café ao carrinho, o mesmo recebe uma notificação (usando React Toastify) de que o café foi adicionado ao carrinho. Em seguida, o usuário preenche um formulário com os dados do endereço e o tipo de pagamento que será feito na entrega do pedido. Esses dados são armazenados no local storage para melhor usabilidade em uma próxima compra.
@@ -42,6 +44,10 @@ $ npm install
 # Iniciar o projeto
 $ npm run dev
 ```
+
+<img src="public/readmeAssets/Home - OurCoffes.png">
+<img src="public/readmeAssets/Checkout.png">
+<img src="public/readmeAssets/Success.png">
 
 ## 📝 License
 
